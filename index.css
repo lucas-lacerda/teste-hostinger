@@ -1,0 +1,51 @@
+
+.div_00 {
+    background: white;
+    position: fixed;
+    top: 25%;
+}
+
+.div_00 a {
+    padding: 5px 20px;
+    text-transform: uppercase;
+    display: block;
+    text-decoration: none;
+}
+
+.div_00 a:hover {
+    background: deepskyblue;
+    color: white;
+}
+
+
+
+.div_01 {
+    background: black;
+    height: 100vh;
+    width: 100%;
+}
+
+.div_02 {
+    background: orange;
+    height: 100vh;
+    width: 100%;
+}
+
+.div_03 {
+    background: skyblue;
+    height: 100vh;
+    width: 100%;
+}
+
+.div_04 {
+    background: deepskyblue;
+    height: 100vh;
+    width: 100%;
+}
+
+.div_05 {
+    background: red;
+    height: 100vh;
+    width: 100%;
+}
+
